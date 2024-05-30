@@ -1,0 +1,25 @@
+foreground #fff0cf
+background #22201C
+selection_foreground #656262
+
+cursor #7baea2
+
+# Regular colors
+color0 #231f20
+color4 #70A096
+color6 #8CC8BC
+color2 #81CD00
+color5 #4C00CD
+color1 #ed1651
+color7 #fffddc
+color3 #fedc00
+
+# Light colors
+color8 #292C33
+color12 #CFDEFF
+color14 #BADED6
+color10 #9AD732
+color13 #6F32D7
+color9 #CD0081
+color15 #FFFDE6
+color11 #FEE332
