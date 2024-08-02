@@ -1,0 +1,24 @@
+{
+    "name": "Gundam Dark",
+    "use-theme-colors": false,
+    "foreground-color": "#fff0cf",
+    "background-color": "#22201C",
+    "palette": [
+      "#231f20",
+      "#70A096",
+      "#8CC8BC",
+      "#81CD00",
+      "#4C00CD",
+      "#ed1651",
+      "#fffddc", 
+      "#fedc00",
+      "#292C33",
+      "#CFDEFF",
+      "#BADED6",
+      "#9AD732",
+      "#6F32D7",
+      "#CD0081",
+      "#FFFDE6",
+      "#FEE332"
+    ]
+}
